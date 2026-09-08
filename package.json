@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
+    "typescript": "^4.9.5",
   },
   "browserslist": {
     "production": [
